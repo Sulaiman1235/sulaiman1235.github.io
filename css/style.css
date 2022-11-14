@@ -14,4 +14,13 @@ backgound-color: #007FFF;
 width: 400px;
 Paddind: 50px;
 border: solid 20px black;
+margin 100px;
 box-sizing: border-box;}
+
+h2{
+front-size:60px;
+margin: 0;
+color: white;
+background-color: #FA8072;
+margin: -120px 0 0 -50px;
+}
